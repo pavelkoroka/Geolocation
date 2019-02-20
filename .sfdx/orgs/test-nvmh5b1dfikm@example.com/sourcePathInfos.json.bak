@@ -32,28 +32,29 @@
     [
         "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550672902663,
             "changeTime": 1550672902663,
-            "contentHash": "691dedcb09b0733c095bc4597fdf623fb9e7fddc",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "691dedcb09b0733c095bc4597fdf623fb9e7fddc"
         }
     ],
     [
         "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1550672994852,
-            "changeTime": 1550672994852,
+            "modifiedTime": 1550671249480,
+            "changeTime": 1550671249480,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -74,15 +75,16 @@
     [
         "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1550672688181,
-            "changeTime": 1550672688181,
+            "modifiedTime": 1550671286265,
+            "changeTime": 1550671286265,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
-            "contentHash": "4a73e8ffb7ba37e044c1e837bf5fcc55e61ae4e3"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -257,170 +259,40 @@
     [
         "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\classes",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550672902689,
             "changeTime": 1550672902689,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 293,
             "modifiedTime": 1550672928178,
             "changeTime": 1550672928178,
-            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e"
         }
     ],
     [
         "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1550672902692,
             "changeTime": 1550672902692,
-            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1550672994884,
-            "changeTime": 1550672994884,
-            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
-        }
-    ],
-    [
-        "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1550672994883,
-            "changeTime": 1550672994883,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 156,
-            "modifiedTime": 1550673012712,
-            "changeTime": 1550673012712,
-            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691"
-        }
-    ],
-    [
-        "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 246,
-            "modifiedTime": 1550672994859,
-            "changeTime": 1550672994859,
-            "contentHash": "9cba73ac62a1355406862911981efd7e62639c62"
-        }
-    ],
-    [
-        "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 129,
-            "modifiedTime": 1550673026321,
-            "changeTime": 1550673026321,
-            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797"
-        }
-    ],
-    [
-        "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1550672994887,
-            "changeTime": 1550672994887,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1550672994879,
-            "changeTime": 1550672994879,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1550672994863,
-            "changeTime": 1550672994863,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1550672994867,
-            "changeTime": 1550672994867,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Koroka User\\Desktop\\TestProject\\MyGeolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1550672994875,
-            "changeTime": 1550672994875,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f"
         }
     ]
 ]
